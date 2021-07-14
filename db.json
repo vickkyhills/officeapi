@@ -1,0 +1,108 @@
+{
+    "employee": [
+      {
+        "id": 1,
+        "name": "Michael Scott",
+        "job": "Regional Manager",
+        "mail": "thegrandmichaelscott@dmifflin.com"
+      },
+      {
+        "id": 2,
+        "name": "Dwight K. Schrute",
+        "job": "Sales and AtRM",
+        "mail": "dwightkrules@dmifflin.com"
+      },{
+        "id": 3,
+        "name": "Jim Halpert",
+        "job": "Sales",
+        "mail": "heyitsjim@dmifflin.com"
+      },
+      {
+        "id": 4,
+        "name": "Pam Beesley",
+        "job": "Secretary",
+        "partof": "Party planning comitee",
+        "mail": "pam.beesley@dmifflin.com"
+      },
+      {
+        "id": 5,
+        "name": "Andrew Bernard",
+        "job": "Sales",
+        "mail": "nard.dog@dmifflin.com"
+      },
+      {
+        "id": 6,
+        "name": "Phyllis Vance",
+        "job": "Sales",
+        "partof": "Party planning comitee",
+        "mail": "miss.vance@dmifflin.com"
+      }, 
+      {
+        "id": 7,
+        "name": "Stanley Hudson",
+        "job": "Sales",
+        "mail": "lovingpretzelday@dmifflin.com"
+      },
+      {
+        "id": 8,
+        "name": "Ryan Howard",
+        "job": "Sales Temp",
+        "mail": "fireguy@dmifflin.com"
+      },
+      {
+        "id": 9,
+        "name": "Oscar Martinez",
+        "job": "Accountant",
+        "mail": "actually@dmifflin.com"
+      },
+      {
+        "id": 10,
+        "name": "Kevin Malone",
+        "job": "Accountant",
+        "mail": "fewordotrick@dmifflin.com"
+      },
+      {
+        "id": 11,
+        "name": "Angela Martin",
+        "job": "Accountant",
+        "partof": "Party planning comitee",
+        "mail": "sprinklesxo@dmifflin.com"
+      },
+      {
+        "id": 11,
+        "name": "Kelly Kapoor",
+        "job": "Customer Service Representative",
+        "mail": "kelly4customers@dmifflin.com"
+      },
+      {
+        "id": 12,
+        "name": "Toby Flenderson",
+        "job": "Human Resources",
+        "mail": "tobyflenderson@dmifflin.com"
+      },
+      {
+        "id": 13,
+        "name": "Creed Bratton",
+        "job": "Quality Assurance",
+        "mail": "asdasfghgfjhs@dmifflin.com"
+      },
+      {
+        "id": 14,
+        "name": "Meredith Palmer",
+        "job": "Purchasing/Supplier Relations",
+        "mail": "fleshhoover@dmifflin.com"
+      },
+      {
+        "id": 15,
+        "name": "Todd Packer",
+        "job": "Former Salesman",
+        "mail": "packerman@dmifflin.com"
+      },
+      {
+        "id": 16,
+        "name": "Jen Levinson",
+        "job": "Vice President of Northeastern Sales ",
+        "mail": "serenitybyjan@dmifflin.com"
+      },
+    ]
+  }
