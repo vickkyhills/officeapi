@@ -61,7 +61,13 @@
         "job": "Accountant",
         "mail": "fewordotrick@dmifflin.com"
       },
-    
+      {
+        "id": 11,
+        "name": "Angela Martin",
+        "job": "Accountant",
+        "partof": "Party planning comitee",
+        "mail": "sprinklesxo@dmifflin.com"
+      },
       {
         "id": 11,
         "name": "Kelly Kapoor",
@@ -97,12 +103,6 @@
         "name": "Jen Levinson",
         "job": "Vice President of Northeastern Sales ",
         "mail": "serenitybyjan@dmifflin.com"
-      },   {
-        "id": 17,
-        "name": "Angela Martin",
-        "job": "Accountant",
-        "partof": "Party planning comitee",
-        "mail": "sprinklesxo@dmifflin.com"
       }
     ]
   }
