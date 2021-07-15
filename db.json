@@ -4,13 +4,16 @@
         "id": 1,
         "name": "Michael Scott",
         "job": "Regional Manager",
-        "mail": "thegrandmichaelscott@dmifflin.com"
+        "mail": "thegrandmichaelscott@dmifflin.com",
+        "img": "https://i.imgur.com/V7gCghh.jpg"
       },
       {
         "id": 2,
         "name": "Dwight K. Schrute",
         "job": "Sales and AtRM",
-        "mail": "dwightkrules@dmifflin.com"
+        "mail": "dwightkrules@dmifflin.com",
+        "img": "https://i.imgur.com/xW7Hhi6.jpg"
+          
       },{
         "id": 3,
         "name": "Jim Halpert",
@@ -23,75 +26,89 @@
         "name": "Pam Beesley",
         "job": "Secretary",
         "partof": "Party planning comitee",
-        "mail": "pam.beesley@dmifflin.com"
+        "mail": "pam.beesley@dmifflin.com",
+        "img": "https://i.imgur.com/0VmLArL.jpg"
       },
       {
         "id": 5,
         "name": "Andrew Bernard",
         "job": "Sales",
-        "mail": "nard.dog@dmifflin.com"
+        "mail": "nard.dog@dmifflin.com",
+        "img": "https://i.imgur.com/hGgX8pS.jpg"
       },
       {
         "id": 6,
         "name": "Phyllis Vance",
         "job": "Sales",
         "partof": "Party planning comitee",
-        "mail": "miss.vance@dmifflin.com"
+        "mail": "miss.vance@dmifflin.com",
+        "img": "https://i.imgur.com/e5sxs26.jpg"
+          
       }, 
       {
         "id": 7,
         "name": "Stanley Hudson",
         "job": "Sales",
-        "mail": "lovingpretzelday@dmifflin.com"
+        "mail": "lovingpretzelday@dmifflin.com",
+        "img": "https://i.imgur.com/2x7Hpjv.jpg"
       },
       {
         "id": 8,
         "name": "Ryan Howard",
         "job": "Sales Temp",
-        "mail": "fireguy@dmifflin.com"
+        "mail": "fireguy@dmifflin.com",
+        "img": "https://i.imgur.com/v6UDR60.jpg"
       },
       {
         "id": 9,
         "name": "Oscar Martinez",
         "job": "Accountant",
-        "mail": "actually@dmifflin.com"
+        "mail": "actually@dmifflin.com",
+        "img": "https://i.imgur.com/tIZCTWV.jpg"
       },
       {
         "id": 10,
         "name": "Kevin Malone",
         "job": "Accountant",
-        "mail": "fewordotrick@dmifflin.com"
+        "mail": "fewordotrick@dmifflin.com",
+        "img": "https://i.imgur.com/IGvrWJg.png"
+          
       },
       {
         "id": 11,
         "name": "Angela Martin",
         "job": "Accountant",
         "partof": "Party planning comitee",
-        "mail": "sprinklesxo@dmifflin.com"
+        "mail": "sprinklesxo@dmifflin.com",
+        "img": "https://i.imgur.com/xm0Xkh8.jpg"
       },
       {
         "id": 11,
         "name": "Kelly Kapoor",
         "job": "Customer Service Representative",
-        "mail": "kelly4customers@dmifflin.com"
+        "mail": "kelly4customers@dmifflin.com",
+        "img": "https://i.imgur.com/nxOoyaq.jpg"
       },
       {
         "id": 12,
         "name": "Toby Flenderson",
         "job": "Human Resources",
-        "mail": "tobyflenderson@dmifflin.com"
+        "mail": "tobyflenderson@dmifflin.com",
+        "img": "https://i.imgur.com/gZQmMrp.jpg"
       },
       {
         "id": 13,
         "name": "Creed Bratton",
         "job": "Quality Assurance",
-        "mail": "asdasfghgfjhs@dmifflin.com"
+        "mail": "asdasfghgfjhs@dmifflin.com",
+        "img": "https://i.imgur.com/GMr4mpO.jpg"
       },
       {
         "id": 14,
         "name": "Meredith Palmer",
         "job": "Purchasing/Supplier Relations",
-        "mail": "fleshhoover@dmifflin.com"
+        "mail": "fleshhoover@dmifflin.com",
+        "img": "https://i.imgur.com/U7kVShB.jpg"
       },
       {
         "id": 15,
