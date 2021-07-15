@@ -4,8 +4,7 @@
         "id": 1,
         "name": "Michael Scott",
         "job": "Regional Manager",
-        "mail": "thegrandmichaelscott@dmifflin.com",
- 
+        "mail": "thegrandmichaelscott@dmifflin.com"
       },
       {
         "id": 2,
