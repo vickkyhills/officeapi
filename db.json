@@ -4,7 +4,8 @@
         "id": 1,
         "name": "Michael Scott",
         "job": "Regional Manager",
-        "mail": "thegrandmichaelscott@dmifflin.com"
+        "mail": "thegrandmichaelscott@dmifflin.com",
+        "img": "https://ibb.co/VQMf4qn"
       },
       {
         "id": 2,
@@ -61,13 +62,7 @@
         "job": "Accountant",
         "mail": "fewordotrick@dmifflin.com"
       },
-      {
-        "id": 11,
-        "name": "Angela Martin",
-        "job": "Accountant",
-        "partof": "Party planning comitee",
-        "mail": "sprinklesxo@dmifflin.com"
-      },
+    
       {
         "id": 11,
         "name": "Kelly Kapoor",
@@ -103,6 +98,12 @@
         "name": "Jen Levinson",
         "job": "Vice President of Northeastern Sales ",
         "mail": "serenitybyjan@dmifflin.com"
-      }
+      },   {
+        "id": 17,
+        "name": "Angela Martin",
+        "job": "Accountant",
+        "partof": "Party planning comitee",
+        "mail": "sprinklesxo@dmifflin.com"
+      },
     ]
   }
