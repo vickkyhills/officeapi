@@ -5,7 +5,7 @@
         "name": "Michael Scott",
         "job": "Regional Manager",
         "mail": "thegrandmichaelscott@dmifflin.com",
-        "img": "https://ibb.co/VQMf4qn"
+ 
       },
       {
         "id": 2,
@@ -16,7 +16,8 @@
         "id": 3,
         "name": "Jim Halpert",
         "job": "Sales",
-        "mail": "heyitsjim@dmifflin.com"
+        "mail": "heyitsjim@dmifflin.com",
+        "img": "https://i.imgur.com/0885CJz.png"
       },
       {
         "id": 4,
