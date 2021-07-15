@@ -15,7 +15,8 @@
         "id": 3,
         "name": "Jim Halpert",
         "job": "Sales",
-        "mail": "heyitsjim@dmifflin.com"
+        "mail": "heyitsjim@dmifflin.com",
+        "img": "https://i.imgur.com/0885CJz.png"
       },
       {
         "id": 4,
